@@ -84,3 +84,14 @@ FROM products
 GROUP BY category
 HAVING Average_unit_price > 20.00;
 ```
+### Tools & Technologies Used
+
+- **Database Management System:** MySQL Server & MySQL Workbench
+- **Language & Syntax:** Structured Query Language (SQL Data Query Language / DQL)
+- **Core Concepts & Techniques:** Basic Aggregations (`SUM`, `AVG`, `COUNT`, `MAX`), Table Joins (`INNER JOIN`), Grouping (`GROUP BY`), Sorting (`ORDER BY`), and Conditional Filtering (`HAVING`)
+
+---
+
+### Background & Context
+
+This project was completed as part of the **ALX Africa Data Science Program** to demonstrate practical exploratory data analysis, relational database querying, multi table joins, and advanced aggregate filtering using MySQL Workbench.
