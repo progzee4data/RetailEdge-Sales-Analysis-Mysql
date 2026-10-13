@@ -1,5 +1,6 @@
 <img width="1920" height="1024" alt="2026-10-10_13-51-48" src="https://github.com/user-attachments/assets/d8f96abe-cd1a-4e49-8a8b-f78832a75716" />
 <img width="1914" height="1015" alt="2026-10-10_13-50-35" src="https://github.com/user-attachments/assets/bac7567e-81a8-4d76-8945-e896eb891a11" />
+
 # RetailEdge Sales & Inventory Analysis
 A portfolio project demonstrating core SQL querying, data aggregation, table joins, and relational database management using MySQL Workbench.
 
